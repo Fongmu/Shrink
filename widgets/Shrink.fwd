@@ -13,6 +13,15 @@
       "url": "https://raw.githubusercontent.com/Maxkinger/Shrink/refs/heads/master/widgets/js/tmdb.js"
     },
     {
+      "id": "imdb_discovery_curated_local_final",
+      "title": "IMDb 分类资源",
+      "description": "聚合IMDb/TMDB热门影视资源，提供多维度分类与榜单。",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Autism",
+      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/IMDb.js"
+    },
+    {
       "id": "Pornhub",
       "title": "Pornhub",
       "description": "在线观看Pornhub",
